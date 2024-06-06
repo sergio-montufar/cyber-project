@@ -1,3 +1,3 @@
-# Summer Cyber Project  
+# Summer Cyber Project  - Quantum Machine Learning
 
-Hello everyone! This project focuses on identifying malicious login attempts utilizing Quantum Machine Learning while also using the BETH Dataset (will tidy up this README once we progress further)
+Hello everyone! This project focuses on Quantum Machine Learning to create a weather predictor! (we shall create a name once we progress further with this project).
